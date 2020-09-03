@@ -1,0 +1,173 @@
+ [
+ {
+    "user_guids": [],
+    "event_name": "intent_message",
+    "payload": {
+        "id": "2020-09-02T06C40C10.961Z_0000",
+        "meetingId": "15467",
+        "intentType": "actionItem",
+        "actionState": "active",
+        "filteredReason": "",
+        "confidenceLevel": 0.999998,
+        "transcriptId": "1970-01-01T00C19C25.330Z_0000",
+        "offsetInMilliseconds": 1165330,
+        "durationInMilliseconds": 5960,
+        "originalText": "Get done. This other things we need to get done. Get done to me. If you know we don't change you.",
+        "intentStartIndexInTranscript": 0,
+        "intentEndIndexInTranscript": 64,
+        "initialComputedTimeUTC": 1599028810
+    }
+},
+ {
+    "user_guids": [],
+    "event_name": "intent_message",
+    "payload": {
+        "id": "2020-09-02T06C41C37.733Z_0000",
+        "meetingId": "15467",
+        "intentType": "actionItem",
+        "actionState": "active",
+        "filteredReason": "",
+        "confidenceLevel": 0.99997765,
+        "transcriptId": "1970-01-01T00C20C47.170Z_0000",
+        "offsetInMilliseconds": 1247170,
+        "durationInMilliseconds": 10230,
+        "originalText": "Thus additional work I need to do OK and then send out. I'll send out the summary at this meeting tomorrow and I will send out the recap send out on my behalf at the day.",
+        "intentStartIndexInTranscript": 21,
+        "intentEndIndexInTranscript": 69,
+        "initialComputedTimeUTC": 1599028897
+    }
+},
+ {
+    "user_guids": [],
+    "event_name": "intent_message",
+    "payload": {
+        "id": "2020-09-02T06C41C39.439Z_0000",
+        "meetingId": "15467",
+        "intentType": "actionItem",
+        "actionState": "active",
+        "filteredReason": "",
+        "confidenceLevel": 0.99096376,
+        "transcriptId": "1970-01-01T00C20C59.290Z_0000",
+        "offsetInMilliseconds": 1259290,
+        "durationInMilliseconds": 1180,
+        "originalText": "Send out the update.",
+        "intentStartIndexInTranscript": 0,
+        "intentEndIndexInTranscript": 19,
+        "initialComputedTimeUTC": 1599028899
+    }
+},
+ {
+    "user_guids": [],
+    "event_name": "intent_message",
+    "payload": {
+        "id": "2020-09-02T06C41C50.098Z_0000",
+        "meetingId": "15467",
+        "intentType": "actionItem",
+        "actionState": "active",
+        "filteredReason": "",
+        "confidenceLevel": 0.80770314,
+        "transcriptId": "1970-01-01T00C21C04.280Z_0000",
+        "offsetInMilliseconds": 1264280,
+        "durationInMilliseconds": 6010,
+        "originalText": "you want to schedule a phone call? I want to schedule a meeting on schedule at time. Now since we're on the phone.",
+        "intentStartIndexInTranscript": 0,
+        "intentEndIndexInTranscript": 33,
+        "initialComputedTimeUTC": 1599028910
+    }
+},
+ {
+    "user_guids": [],
+    "event_name": "intent_message",
+    "payload": {
+        "id": "2020-09-02T06C48C09.509Z_0000",
+        "meetingId": "15467",
+        "intentType": "actionItem",
+        "actionState": "active",
+        "filteredReason": "",
+        "confidenceLevel": 0.9948207,
+        "transcriptId": "1970-01-01T00C27C15.340Z_0000",
+        "offsetInMilliseconds": 1635340,
+        "durationInMilliseconds": 11810,
+        "originalText": "let's just do the due diligence, identify all the instances of get done that popped up as action items. Review it and see which ones they really belong in. The action item category. That's fine, anything.",
+        "intentStartIndexInTranscript": 104,
+        "intentEndIndexInTranscript": 121,
+        "initialComputedTimeUTC": 1599029289
+    }
+},
+ {
+    "user_guids": [],
+    "event_name": "intent_message",
+    "payload": {
+        "id": "2020-09-02T06C49C27.159Z_0000",
+        "meetingId": "15467",
+        "intentType": "actionItem",
+        "actionState": "active",
+        "filteredReason": "",
+        "confidenceLevel": 0.99999744,
+        "transcriptId": "1970-01-01T00C28C45.470Z_0000",
+        "offsetInMilliseconds": 1725470,
+        "durationInMilliseconds": 2600,
+        "originalText": "let's do this exercise. If you can send me an updated.",
+        "intentStartIndexInTranscript": 0,
+        "intentEndIndexInTranscript": 53,
+        "initialComputedTimeUTC": 1599029367
+    }
+},
+ {
+    "user_guids": [],
+    "event_name": "intent_message",
+    "payload": {
+        "id": "2020-09-02T06C51C57.181Z_0000",
+        "meetingId": "15467",
+        "intentType": "actionItem",
+        "actionState": "active",
+        "filteredReason": "",
+        "confidenceLevel": 0.9929314,
+        "transcriptId": "1970-01-01T00C31C10.430Z_0000",
+        "offsetInMilliseconds": 1870430,
+        "durationInMilliseconds": 5370,
+        "originalText": "OK, I'm you can share it on the channel itself so I can review it so don't have to wait for the next week.",
+        "intentStartIndexInTranscript": 4,
+        "intentEndIndexInTranscript": 62,
+        "initialComputedTimeUTC": 1599029517
+    }
+},
+ {
+    "user_guids": [],
+    "event_name": "intent_message",
+    "payload": {
+        "id": "2020-09-02T06C55C35.293Z_0000",
+        "meetingId": "15467",
+        "intentType": "actionItem",
+        "actionState": "active",
+        "filteredReason": "",
+        "confidenceLevel": 0.999999,
+        "transcriptId": "1970-01-01T00C34C39.340Z_0000",
+        "offsetInMilliseconds": 2079340,
+        "durationInMilliseconds": 13740,
+        "originalText": "Then three dots right there. So even though I'm not done, you know you have three dot showing up. If you break it, I could have said hey, go away, let's do a follow up. Oh no, not tomorrow. Let's set it up for tomorrow. That should have been an action item.",
+        "intentStartIndexInTranscript": 147,
+        "intentEndIndexInTranscript": 205,
+        "initialComputedTimeUTC": 1599029735
+    }
+},
+ {
+    "user_guids": [],
+    "event_name": "intent_message",
+    "payload": {
+        "id": "2020-09-02T07C01C48.325Z_0000",
+        "meetingId": "15467",
+        "intentType": "actionItem",
+        "actionState": "active",
+        "filteredReason": "",
+        "confidenceLevel": 0.99999964,
+        "transcriptId": "1970-01-01T00C41C00.530Z_0000",
+        "offsetInMilliseconds": 2460530,
+        "durationInMilliseconds": 7480,
+        "originalText": "OK, so next steps let's turn off the filler stuff. Let's do a scientific comparison and let's review the results before we turn it back on.",
+        "intentStartIndexInTranscript": 18,
+        "intentEndIndexInTranscript": 100,
+        "initialComputedTimeUTC": 1599030108
+    }
+}
+ ]

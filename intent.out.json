@@ -1,0 +1,174 @@
+ [
+ {
+    "user_guids": [
+        "967b5920-5fe1-3c77-b8db-e846ac845722",
+        "6a871920-dee7-3f7b-ae6d-b8a99fb13c8c"
+    ],
+    "event_name": "intent_message",
+    "payload": {
+        "id": "2020-09-01T20C23C03.171Z_0000",
+        "meetingId": "15467",
+        "intentType": "actionItem",
+        "actionState": "active",
+        "filteredReason": "",
+        "confidenceLevel": 0.99999964,
+        "transcriptId": "1970-01-01T00C19C22.350Z_0000",
+        "offsetInMilliseconds": 1162350,
+        "durationInMilliseconds": 1880,
+        "originalText": "Let's look at other ones. Get",
+        "intentStartIndexInTranscript": 0,
+        "intentEndIndexInTranscript": 13,
+        "initialComputedTimeUTC": 1598991783
+    }
+},
+ {
+    "user_guids": [
+        "967b5920-5fe1-3c77-b8db-e846ac845722",
+        "6a871920-dee7-3f7b-ae6d-b8a99fb13c8c"
+    ],
+    "event_name": "intent_message",
+    "payload": {
+        "id": "2020-09-01T20C24C29.953Z_0000",
+        "meetingId": "15467",
+        "intentType": "actionItem",
+        "actionState": "active",
+        "filteredReason": "",
+        "confidenceLevel": 0.99997765,
+        "transcriptId": "1970-01-01T00C20C47.170Z_0000",
+        "offsetInMilliseconds": 1247170,
+        "durationInMilliseconds": 10230,
+        "originalText": "Thus additional work I need to do OK and then send out. I'll send out the summary at this meeting tomorrow and I will send out the recap send out on my behalf at the day.",
+        "intentStartIndexInTranscript": 21,
+        "intentEndIndexInTranscript": 69,
+        "initialComputedTimeUTC": 1598991869
+    }
+},
+ {
+    "user_guids": [
+        "967b5920-5fe1-3c77-b8db-e846ac845722",
+        "6a871920-dee7-3f7b-ae6d-b8a99fb13c8c"
+    ],
+    "event_name": "intent_message",
+    "payload": {
+        "id": "2020-09-01T20C24C31.675Z_0000",
+        "meetingId": "15467",
+        "intentType": "actionItem",
+        "actionState": "active",
+        "filteredReason": "",
+        "confidenceLevel": 0.99096376,
+        "transcriptId": "1970-01-01T00C20C59.290Z_0000",
+        "offsetInMilliseconds": 1259290,
+        "durationInMilliseconds": 1180,
+        "originalText": "Send out the update.",
+        "intentStartIndexInTranscript": 0,
+        "intentEndIndexInTranscript": 19,
+        "initialComputedTimeUTC": 1598991871
+    }
+},
+ {
+    "user_guids": [
+        "967b5920-5fe1-3c77-b8db-e846ac845722",
+        "6a871920-dee7-3f7b-ae6d-b8a99fb13c8c"
+    ],
+    "event_name": "intent_message",
+    "payload": {
+        "id": "2020-09-01T20C24C42.330Z_0000",
+        "meetingId": "15467",
+        "intentType": "actionItem",
+        "actionState": "active",
+        "filteredReason": "",
+        "confidenceLevel": 0.80770314,
+        "transcriptId": "1970-01-01T00C21C04.280Z_0000",
+        "offsetInMilliseconds": 1264280,
+        "durationInMilliseconds": 4750,
+        "originalText": "you want to schedule a phone call? I want to schedule a meeting on schedule at time.",
+        "intentStartIndexInTranscript": 0,
+        "intentEndIndexInTranscript": 33,
+        "initialComputedTimeUTC": 1598991882
+    }
+},
+ {
+    "user_guids": [
+        "6a871920-dee7-3f7b-ae6d-b8a99fb13c8c"
+    ],
+    "event_name": "intent_message",
+    "payload": {
+        "id": "2020-09-01T20C32C19.350Z_0000",
+        "meetingId": "15467",
+        "intentType": "actionItem",
+        "actionState": "active",
+        "filteredReason": "",
+        "confidenceLevel": 0.99445766,
+        "transcriptId": "1970-01-01T00C28C45.470Z_0000",
+        "offsetInMilliseconds": 1725470,
+        "durationInMilliseconds": 1940,
+        "originalText": "do this exercise. If you can send me an updated.",
+        "intentStartIndexInTranscript": 0,
+        "intentEndIndexInTranscript": 47,
+        "initialComputedTimeUTC": 1598992339
+    }
+},
+ {
+    "user_guids": [
+        "6a871920-dee7-3f7b-ae6d-b8a99fb13c8c"
+    ],
+    "event_name": "intent_message",
+    "payload": {
+        "id": "2020-09-01T20C34C49.462Z_0000",
+        "meetingId": "15467",
+        "intentType": "actionItem",
+        "actionState": "active",
+        "filteredReason": "",
+        "confidenceLevel": 0.9929314,
+        "transcriptId": "1970-01-01T00C31C10.560Z_0000",
+        "offsetInMilliseconds": 1870560,
+        "durationInMilliseconds": 5390,
+        "originalText": "OK, I'm you can share it on the channel itself so I can review it so don't have to wait for the next week.",
+        "intentStartIndexInTranscript": 4,
+        "intentEndIndexInTranscript": 62,
+        "initialComputedTimeUTC": 1598992489
+    }
+},
+ {
+    "user_guids": [
+        "6a871920-dee7-3f7b-ae6d-b8a99fb13c8c"
+    ],
+    "event_name": "intent_message",
+    "payload": {
+        "id": "2020-09-01T20C35C00.956Z_0000",
+        "meetingId": "15467",
+        "intentType": "actionItem",
+        "actionState": "active",
+        "filteredReason": "",
+        "confidenceLevel": 0.9666632,
+        "transcriptId": "1970-01-01T00C31C25.570Z_0000",
+        "offsetInMilliseconds": 1885570,
+        "durationInMilliseconds": 2780,
+        "originalText": "I'm a go away you're gonna share the results, yeah?",
+        "intentStartIndexInTranscript": 0,
+        "intentEndIndexInTranscript": 32,
+        "initialComputedTimeUTC": 1598992500
+    }
+},
+ {
+    "user_guids": [
+        "6a871920-dee7-3f7b-ae6d-b8a99fb13c8c"
+    ],
+    "event_name": "intent_message",
+    "payload": {
+        "id": "2020-09-01T20C44C40.558Z_0000",
+        "meetingId": "15467",
+        "intentType": "actionItem",
+        "actionState": "active",
+        "filteredReason": "",
+        "confidenceLevel": 0.99999964,
+        "transcriptId": "1970-01-01T00C41C00.530Z_0000",
+        "offsetInMilliseconds": 2460530,
+        "durationInMilliseconds": 7480,
+        "originalText": "OK, so next steps let's turn off the filler stuff. Let's do a scientific comparison and let's review the results before we turn it back on.",
+        "intentStartIndexInTranscript": 18,
+        "intentEndIndexInTranscript": 100,
+        "initialComputedTimeUTC": 1598993080
+    }
+}
+]
